@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.12.1",
+  "appInfo": {
+    "name": "Sample app",
+    "description": "Sample application for e-commerce",
+    "version": "l039wqo6",
+    "id": "cl11yf9yv43263001s6ciyyx0zu",
+    "url": "https://app.amplication.com/cl11yf9yv43263001s6ciyyx0zu",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "Postgres",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "cl11yf9yv43263001s6ciyyx0zu",
+      "authProvider": "Http"
+    }
+  }
+}
